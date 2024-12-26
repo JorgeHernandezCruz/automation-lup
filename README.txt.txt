@@ -1,3 +1,5 @@
+
+nota hacer cambio del button action class por path class 
 Se crea readme para proyecto con selenium
 se utilizara anaconda para administrar los bloques de codigo
 se installa la libreria de openai 
