@@ -9,3 +9,4 @@ se debe de descargar web driver en la pc validando la version de chrome
 investigar sobre la api de chat gpt gemini o procesadores de texto para analisis
 investigar sobre como usar la api o si existe ya alguna api para 
 tiny task chatgpt gemini o analizadores de texto
+revisar la documentacion de selenium
