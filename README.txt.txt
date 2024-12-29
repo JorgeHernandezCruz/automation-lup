@@ -11,3 +11,4 @@ investigar sobre como usar la api o si existe ya alguna api para
 tiny task chatgpt gemini o analizadores de texto
 revisar la documentacion de selenium
 revisar el uso de tiny task
+chatgpt tiene api de analisis? 
