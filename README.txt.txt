@@ -5,3 +5,4 @@ pip install openai
 se descarta momentaneamente el uso de gpt 
 se debe de descargar web driver en la pc validando la version de chrome 
 investigar sobre la api de chat gpt gemini o procesadores de texto para analisis
+Revisar el uso de Xpath para clickear el boton 
