@@ -8,3 +8,4 @@ se descarta momentaneamente el uso de gpt
 se debe de descargar web driver en la pc validando la version de chrome 
 investigar sobre la api de chat gpt gemini o procesadores de texto para analisis
 Investigar sobre el uso de xpath en la libreria de selenium para niciar sesion en lupe
+nota empezar investigaciones
