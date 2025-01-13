@@ -10,3 +10,4 @@ investigar sobre la api de chat gpt gemini o procesadores de texto para analisis
 Investigar sobre el uso de xpath en la libreria de selenium para niciar sesion en lupe
 nota empezar investigaciones con xpath
 investigar sobre ia que analize webs
+o indicarle al programa que copie pegue data y la meta a chat gpt 
