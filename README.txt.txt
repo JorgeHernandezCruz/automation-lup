@@ -11,3 +11,4 @@ Investigar sobre el uso de xpath en la libreria de selenium para niciar sesion e
 nota empezar investigaciones con xpath
 investigar sobre ia que analize webs
 o indicarle al programa que copie pegue data y la meta a chat gpt 
+revisar librerias 
